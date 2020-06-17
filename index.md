@@ -4,4 +4,5 @@
 
 layout: holding-page
 hero_image: /assets/texo-logo.png
+title: Coming Soon
 ---
